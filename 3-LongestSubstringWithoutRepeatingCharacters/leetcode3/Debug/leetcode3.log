@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\jenny\leetcode\leetcode3\leetcode3\Source.cpp(8,22): warning C4018: '<': signed/unsigned 不相符
+D:\jenny\leetcode\leetcode3\leetcode3\Source.cpp(10,26): warning C4018: '<': signed/unsigned 不相符
+D:\jenny\leetcode\leetcode3\leetcode3\Source.cpp(13,30): warning C4018: '<': signed/unsigned 不相符
+D:\jenny\leetcode\leetcode3\leetcode3\Source.cpp(15,27): warning C4018: '>=': signed/unsigned 不相符
+D:\jenny\leetcode\leetcode3\leetcode3\Source.cpp(16,29): warning C4018: '<': signed/unsigned 不相符
+D:\jenny\leetcode\leetcode3\leetcode3\Source.cpp(27,29): warning C4018: '<': signed/unsigned 不相符
+  leetcode3.vcxproj -> D:\jenny\leetcode\leetcode3\Debug\leetcode3.exe
